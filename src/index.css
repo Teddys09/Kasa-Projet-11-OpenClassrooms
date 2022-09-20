@@ -1,13 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0 5%;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* Logo header */
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.logo-banner {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+}
+.home-icon {
+  position: relative;
+}
+.home-icon img {
+  height: 40px;
+}
+.door {
+  position: absolute;
+  top: 22px;
+  right: 7px;
+}
+.door img {
+  height: 15px;
+}
+.k img {
+  height: 60px;
+}
+.s img {
+  height: 40px;
+}
+.a img {
+  height: 40px;
+}
+.link a {
+  text-decoration: none;
+  color: #ff6060;
+  font-size: 24px;
+  font-weight: 500;
+  margin-right: 57px;
+}
+
+/* banner */
+.img-banner {
+  border-radius: 10px;
+}
+
+/* Card */
+.card-section {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.card {
+  position: relative;
+}
+.card img {
+  width: 340px;
+  height: 340px;
+  border-radius: 8px;
+}
+.card-content {
+  position: absolute;
+  font-size: 18px;
+  font-weight: 500;
+  bottom: 10px;
+  left: 10px;
+  color: white;
+  max-width: 300px;
+}
+
+/* Products-page */
+
+.product-section {
+  margin-top: 15px;
+}
+
+.product-title {
+  color: #ff6060;
+  font-size: 36px;
+  font-weight: 500;
+}
+.product-location {
+  color: #ff6060;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.title-host-container {
+  display: flex;
+
+  justify-content: space-between;
+}
+.name-img {
+  display: flex;
+  color: #ff6060;
+  margin-top: 15px;
+}
+.name-img img {
+  border-radius: 50%;
+  height: 60px;
+  object-fit: cover;
+}
+.name-img p {
+  max-width: 75px;
+}
+
+/* Lightbox */
+.lightbox {
+  position: relative;
+}
+.img-lightbox {
+  max-height: 415px;
+  min-width: 100%;
+  object-fit: cover;
+  border-radius: 15px;
+}
+.arrow {
+  position: absolute;
+  height: 60px;
+  width: 45px;
+  top: 43%;
+  cursor: pointer;
+}
+.right {
+  right: 10px;
+}
+
+.left {
+  left: 10px;
+}
+
+/* Tag */
+.tag-container {
+  display: flex;
+  gap: 10px;
+}
+.tag {
+  background-color: #ff6060;
+  color: white;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.tag-star-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Dropdown */
+
+.dropdown-title {
+  background-color: #ff6060;
+  color: white;
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 15px;
+}
+.dropdown-content {
+  display: none;
+}
+.active {
+  display: block;
 }
