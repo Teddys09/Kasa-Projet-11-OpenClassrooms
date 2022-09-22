@@ -1,9 +1,9 @@
 import React from 'react';
-import homeIcons from './assets/icons/home_white.svg';
-import door from './assets/icons/door_white.svg';
-import k from './assets/icons/k_white.svg';
-import s from './assets/icons/s_white.svg';
-import a from './assets/icons/a_white.svg';
+import homeIcons from '../assets/icons/home_white.svg';
+import door from '../assets/icons/door_white.svg';
+import k from '../assets/icons/k_white.svg';
+import s from '../assets/icons/s_white.svg';
+import a from '../assets/icons/a_white.svg';
 
 const Footer = () => {
   return (

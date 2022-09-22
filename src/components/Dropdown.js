@@ -1,7 +1,6 @@
 import arrowDown from '../assets/icons/arrow_down.svg';
 
 const Dropdown = (name) => {
-  console.log(name.name);
   let isClickedDescription = false;
   function handleClickDescription() {
     isClickedDescription = !isClickedDescription;
@@ -33,7 +32,6 @@ const Dropdown = (name) => {
   }
 
   function handleClickAbout(className) {
-    console.log(className);
     isClickedDescription = !isClickedDescription;
     if (isClickedDescription) {
       let content = document.querySelector('.' + className);

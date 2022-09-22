@@ -1,10 +1,10 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import homeIcons from './assets/icons/home.svg';
-import door from './assets/icons/door.svg';
-import k from './assets/icons/k.svg';
-import s from './assets/icons/s.svg';
-import a from './assets/icons/a.svg';
+import homeIcons from '../assets/icons/home.svg';
+import door from '../assets/icons/door.svg';
+import k from '../assets/icons/k.svg';
+import s from '../assets/icons/s.svg';
+import a from '../assets/icons/a.svg';
 
 const Navbar = () => {
   return (

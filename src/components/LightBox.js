@@ -8,7 +8,6 @@ const LightBox = (product) => {
 
   function indexImage(e) {
     if (e.target.classList.contains('arrow')) {
-      console.log('right');
       if (index === product.pictures.length - 1) {
         setIndex(0);
       } else {
