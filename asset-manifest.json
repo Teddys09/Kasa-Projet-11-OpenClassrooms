@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Kasa-Projet-11-OpenClassrooms/static/css/main.42450039.css",
+    "main.js": "/Kasa-Projet-11-OpenClassrooms/static/js/main.9c90c351.js",
+    "static/media/bannerAbout.png": "/Kasa-Projet-11-OpenClassrooms/static/media/bannerAbout.6409af8db1576308fb2b.png",
+    "static/media/bannerHome.png": "/Kasa-Projet-11-OpenClassrooms/static/media/bannerHome.ac3aa7396c2c7cd05e2e.png",
+    "static/media/a.svg": "/Kasa-Projet-11-OpenClassrooms/static/media/a.44285ea16d0342f62fce06dfa6dc0e43.svg",
+    "index.html": "/Kasa-Projet-11-OpenClassrooms/index.html",
+    "static/media/a_white.svg": "/Kasa-Projet-11-OpenClassrooms/static/media/a_white.32b765c63639bdd9eb42221864d5e60b.svg",
+    "static/media/s.svg": "/Kasa-Projet-11-OpenClassrooms/static/media/s.9207e65aba83e0bd1fd676274e53275e.svg",
+    "static/media/s_white.svg": "/Kasa-Projet-11-OpenClassrooms/static/media/s_white.e377ff645c48a9dcd170a6e40746f07c.svg",
+    "static/media/home.svg": "/Kasa-Projet-11-OpenClassrooms/static/media/home.e8d2e99aac68cca726e0a22309c87359.svg",
+    "static/media/home_white.svg": "/Kasa-Projet-11-OpenClassrooms/static/media/home_white.40ad5f1e6cd9e7dae6f1c82bc47dbbd2.svg",
+    "static/media/k.svg": "/Kasa-Projet-11-OpenClassrooms/static/media/k.874e1fe25a3a0ac690057afb645732ad.svg",
+    "static/media/k_white.svg": "/Kasa-Projet-11-OpenClassrooms/static/media/k_white.dcb51d98d3219a0f76e1b3b6567b1658.svg",
+    "static/media/arrow_right.svg": "/Kasa-Projet-11-OpenClassrooms/static/media/arrow_right.f1e62b1c0199eec69b1cddc2e6185135.svg",
+    "static/media/arrow_down.svg": "/Kasa-Projet-11-OpenClassrooms/static/media/arrow_down.18f5a3e2a74c56c2c4650d5a2a7f622a.svg",
+    "static/media/arrow_left.svg": "/Kasa-Projet-11-OpenClassrooms/static/media/arrow_left.e1c831f025531aaa34d3eb308a748ce2.svg",
+    "static/media/star_grey.svg": "/Kasa-Projet-11-OpenClassrooms/static/media/star_grey.06dccca447400012db124c595a41e219.svg",
+    "static/media/star_orange.svg": "/Kasa-Projet-11-OpenClassrooms/static/media/star_orange.325cf1d54d109e062e0d0468f6412f00.svg",
+    "static/media/door.svg": "/Kasa-Projet-11-OpenClassrooms/static/media/door.9f81f3a9de6e0bdf8a345d2f4ea11562.svg",
+    "static/media/door_white.svg": "/Kasa-Projet-11-OpenClassrooms/static/media/door_white.ddc38128260fce6c5291df4d0a252f01.svg",
+    "main.42450039.css.map": "/Kasa-Projet-11-OpenClassrooms/static/css/main.42450039.css.map",
+    "main.9c90c351.js.map": "/Kasa-Projet-11-OpenClassrooms/static/js/main.9c90c351.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42450039.css",
+    "static/js/main.9c90c351.js"
+  ]
+}
